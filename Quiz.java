@@ -31,8 +31,6 @@ public class Quiz {
     }while(menu=='y'||menu=='Y');
     if (menu == 'n'||menu=='N') {
         System.out.println("Terima kasih sudah bermain");
-    }else
-    System.out.println("Input salah");
-    boolean success = false;
+    }
 }
 }
